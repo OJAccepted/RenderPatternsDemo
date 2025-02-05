@@ -31,5 +31,15 @@ npm run start
 
 Now check out the demo on http://localhost:2048
 
-### 
+### 流式渲染DEMO
+```sh
+git clone 
+cd RenderPatternsDemo
+cd react-streaming-ssr
+
+npm install
+npm run dev
+```
+
+Now check out the demo on http://localhost:2048/streaming
 
