@@ -1,0 +1,158 @@
+[
+    {
+		"gender": "male",
+		"name": {
+			"title": "mr",
+			"first": "peter",
+			"last": "holt"
+		},
+		"location": {
+			"street": "9374 karen dr",
+			"city": "cary",
+			"state": "alabama",
+			"postcode": 25967,
+			"coordinates": {
+				"latitude": "6.4163",
+				"longitude": "-168.3884"
+			},
+			"timezone": {
+				"offset": "-1:00",
+				"description": "Azores, Cape Verde Islands"
+			}
+		},
+		"email": "peter.holt@example.com",
+		"login": {
+			"uuid": "c66e6202-b956-4f77-a15e-9c0730df7763",
+			"username": "goldentiger659",
+			"password": "alatam",
+			"salt": "RJvA9BBy",
+			"md5": "63a2930a91585b5855e2b3f65e459315",
+			"sha1": "f0fe6c968d3466736d1151a07371835e2e6316ee",
+			"sha256": "cd518367ab4e6f1c4b5e144fd3d344583cc6db7af57c9ba85ed031f476f3eb40"
+		},
+		"dob": {
+			"date": "1987-05-05T00:15:09Z",
+			"age": 31
+		},
+		"registered": {
+			"date": "2002-04-29T02:01:28Z",
+			"age": 16
+		},
+		"phone": "(108)-944-3293",
+		"cell": "(203)-300-9236",
+		"id": {
+			"name": "SSN",
+			"value": "807-74-4308"
+		},
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/men/45.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+		},
+		"nat": "US"
+	},
+	{
+		"gender": "female",
+		"name": {
+			"title": "miss",
+			"first": "savannah",
+			"last": "rose"
+		},
+		"location": {
+			"street": "6841 stevens creek blvd",
+			"city": "davenport",
+			"state": "west virginia",
+			"postcode": 92609,
+			"coordinates": {
+				"latitude": "89.6220",
+				"longitude": "-63.8521"
+			},
+			"timezone": {
+				"offset": "+5:30",
+				"description": "Bombay, Calcutta, Madras, New Delhi"
+			}
+		},
+		"email": "savannah.rose@example.com",
+		"login": {
+			"uuid": "405601f3-4ad1-4bb7-b60e-2ddc3bac3fe1",
+			"username": "orangesnake155",
+			"password": "trident",
+			"salt": "eSNAj7EX",
+			"md5": "70b8682060eea1753ba06a0d96df9f23",
+			"sha1": "f261eea6e7dedf248d2d2eff45328e075caabc04",
+			"sha256": "97064ca954dad86b7258f8d7e3630a57d14a2a99a1bbc3d6a5730cf75a166b60"
+		},
+		"dob": {
+			"date": "1964-07-30T10:37:37Z",
+			"age": 54
+		},
+		"registered": {
+			"date": "2018-06-02T11:19:03Z",
+			"age": 0
+		},
+		"phone": "(562)-728-0376",
+		"cell": "(723)-309-0741",
+		"id": {
+			"name": "SSN",
+			"value": "657-25-1770"
+		},
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/women/79.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+		},
+		"nat": "US"
+	},
+	{
+		"gender": "male",
+		"name": {
+			"title": "mr",
+			"first": "leslie",
+			"last": "austin"
+		},
+		"location": {
+			"street": "3409 hickory creek dr",
+			"city": "columbus",
+			"state": "new mexico",
+			"postcode": 40281,
+			"coordinates": {
+				"latitude": "39.2661",
+				"longitude": "50.8485"
+			},
+			"timezone": {
+				"offset": "+6:00",
+				"description": "Almaty, Dhaka, Colombo"
+			}
+		},
+		"email": "leslie.austin@example.com",
+		"login": {
+			"uuid": "62f7ce8d-06fd-49a3-b4c1-5c9c3550e0b7",
+			"username": "browngorilla470",
+			"password": "keller",
+			"salt": "AjZbXG3O",
+			"md5": "6efe8715d9510f4c5c809098437fab83",
+			"sha1": "0884dc38fa5c2ae7e6946e5fe0525a48718aa16c",
+			"sha256": "4790e400a08085ce655476523db6561a2f3fd681b9a027b0ea9b7f379f24218d"
+		},
+		"dob": {
+			"date": "1968-10-04T17:01:24Z",
+			"age": 50
+		},
+		"registered": {
+			"date": "2014-06-10T06:34:30Z",
+			"age": 4
+		},
+		"phone": "(920)-031-4235",
+		"cell": "(682)-375-5244",
+		"id": {
+			"name": "SSN",
+			"value": "073-47-3416"
+		},
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/men/66.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+		},
+		"nat": "US"
+	}
+]
