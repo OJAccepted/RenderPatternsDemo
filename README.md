@@ -9,7 +9,7 @@
 ```sh
 git clone 
 cd RenderPatternsDemo
-cd dynamic-hydration
+cd dynamic-hydration-demo
 
 npm install
 npm run start
